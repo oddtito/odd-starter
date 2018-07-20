@@ -1,0 +1,62 @@
+@import 'variables';
+@import 'mixins';
+
+/*--------------------------------------------------
+Base
+--------------------------------------------------*/
+
+html{
+
+}
+
+body{
+
+}
+
+.wrapper{
+	background: #fff;
+    max-width: 1170px;  
+    margin: 0 auto; 
+} 
+
+
+//
+// Fonts
+// -------------------------------------------------- 
+
+body {
+    font-family: Verdana;
+} 
+
+b, strong {
+    font-family: Verdana;
+}
+
+h1, h2, h3, h4, h5, h6 {
+   font-family:  Sans-Serif;
+}
+
+a {
+
+    &:hover, &:focus {
+       
+        text-decoration: none;
+    }
+
+    &:active, &:visited {
+       
+    }
+}
+ 
+@font-face {
+	
+}
+ 
+ 
+//
+// Animations
+// --------------------------------------------------
+a, a:hover, button, button:hover, .btnborder, .btntop {
+  transition: all 0.3s ease-in-out;
+}
+

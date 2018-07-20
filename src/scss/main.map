@@ -1,0 +1,17 @@
+{
+	"version": 3,
+	"file": "main.css",
+	"sources": [
+		"main.scss",
+		"_modules/_variables.scss",
+		"_modules/_base.scss",
+		"_modules/_mixins.scss",
+		"_modules/_typography.scss",
+		"_modules/_buttons.scss",
+		"_modules/_header.scss",
+		"_modules/_footer.scss"
+	],
+	"sourcesContent": [],
+	"mappings": "AEeA,QAAQ,AAAA,CACP,UAAU,CAAE,IAAK,CACd,SAAS,CAAE,MAAO,CAClB,MAAM,CAAE,MAAO,CAHV,AAWT,IAAI,AAAC,CACD,WAAW,CAAE,OAAQ,CADnB,AAIH,CAAC,CAAC,MAAM,AAAD,CACN,WAAW,CAAE,OAAQ,CADd,AAIS,EAAE,CAAC,EAAE,CAAC,EAAE,CAAC,EAAE,CAAC,EAAE,CAAC,EAAE,AAAd,CACpB,WAAW,CAAG,UAAW,CADJ,AAMV,CAAC,AAAA,MAAM,CAAC,CAAC,AAAA,MAAM,AAAR,CAEb,eAAe,CAAE,IAAK,CAFR,AAUtB,UAAU,GAQoC,CAAC,CAAC,CAAC,AAAA,MAAM,CAAC,MAAM,CAAC,MAAM,AAAA,MAAM,CAAC,UAAU,CAAC,OAAO,AAAxC,CACpD,UAAU,CAAE,GAAG,CAAC,IAAI,CAAC,WAAW,CADqB,AEhDvD,IAAI,AAAC,CACL,WAAW,CAAE,oBAAqB,CAD5B,AEFN,MAAM,AAAC,CACN,gBAAgB,CAAE,GAAI,CADf",
+	"names": []
+}
